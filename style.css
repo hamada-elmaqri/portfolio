@@ -18,6 +18,17 @@ html {
 p {
   color: rgb(85, 85, 85);
 }
+.text-container p{
+  text-indent: 5rem;
+}
+.highlight{
+  font-weight: bold;
+}
+
+li {
+  color: rgb(85, 85, 85);
+  margin-left: 5rem;
+}
 
 /* TRANSITION */
 
